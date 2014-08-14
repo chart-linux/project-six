@@ -1,11 +1,12 @@
 @charset "UTF-8";
 
 body{
-    width: 800px;
-    height: 800px;
+    width: 500px;
+    height: 600px;
     padding: 100px 100px 100px 100px;
     margin-left: auto;
     margin-right: auto;
+    /*border: solid 1px;*/
 }
 
 div#menu {

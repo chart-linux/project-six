@@ -1,9 +1,9 @@
-pict-keeper
+project-six
 ===========
 
-#What's this
+##What's this
 This is a web application that host pictures and show them.
 Powered by Heroku, bottle.
 
-#Dependencies
+##Dependencies
 bottle==0.12.7

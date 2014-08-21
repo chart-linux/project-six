@@ -2,3 +2,4 @@ venv
 *.pyc
 *.swp
 ./static/img/*.jpg
+pass.js
